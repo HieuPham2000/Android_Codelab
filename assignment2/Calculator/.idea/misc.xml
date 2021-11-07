@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/20211/Android_Codelab/assignment2/Calculator/app/src/main/res/drawable-v24/btn_calculate.xml" value="0.1" />
+        <entry key="..\:/20211/Android_Codelab/assignment2/Calculator/app/src/main/res/drawable/btn_calculate.xml" value="0.1" />
         <entry key="..\:/20211/Android_Codelab/assignment2/Calculator/app/src/main/res/drawable/btn_control.xml" value="0.1" />
         <entry key="..\:/20211/Android_Codelab/assignment2/Calculator/app/src/main/res/drawable/btn_number.xml" value="0.146875" />
         <entry key="..\:/20211/Android_Codelab/assignment2/Calculator/app/src/main/res/drawable/btn_template_1.xml" value="0.19583333333333333" />
