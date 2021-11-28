@@ -297,7 +297,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Xủ lý sự kiện click vào các nút toán tử
+     * Xủ lý sự kiện click vào nút =
      * pthieu 7.11.2021
      */
     public void onClickBtnEqual() {
