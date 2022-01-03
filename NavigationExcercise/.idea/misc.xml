@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable-v24/btn_calculate.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable/ic_menu_camera.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/drawable/side_nav_bar.xml" value="0.11666666666666667" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/activity_main.xml" value="0.4742468415937804" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/app_bar_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/content_main.xml" value="0.17844202898550723" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_calculator.xml" value="0.13020833333333334" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_gallery.xml" value="0.1721014492753623" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_home.xml" value="0.6" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_radix_transfer.xml" value="0.13020833333333334" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_slideshow.xml" value="0.1721014492753623" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/fragment_unit_transfer.xml" value="0.13020833333333334" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/layout/nav_header_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/20211/Android_Codelab/NavigationExcercise/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_calculator">
+
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="com.example.android.navigationexcercise.ui.calculator.CalculatorFragment"
+        android:label="@string/menu_calculator"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/nav_radix_transfer"
+        android:name="com.example.android.navigationexcercise.ui.radixtransfer.RadixTransferFragment"
+        android:label="@string/menu_radix_transfer"
+        tools:layout="@layout/fragment_radix_transfer" />
+
+    <fragment
+        android:id="@+id/nav_unit_transfer"
+        android:name="com.example.android.navigationexcercise.ui.unittransfer.UnitTransferFragment"
+        android:label="@string/menu_unit_transfer"
+        tools:layout="@layout/fragment_unit_transfer" />
+</navigation>

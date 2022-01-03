@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Exercise</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Phạm Trung Hiếu</string>
+    <string name="nav_header_subtitle">hieu.pt183535@sis.hust.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_calculator">Máy tính</string>
+    <string name="menu_radix_transfer">Chuyển đổi hệ cơ số</string>
+    <string name="menu_unit_transfer">Chuyển đổi đơn vị</string>
+</resources>
